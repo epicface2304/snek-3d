@@ -1,0 +1,13 @@
+{
+"companyName": "Shre",
+"productName": "snek",
+"dataUrl": "5-8-19-WebGL.data.unityweb",
+"wasmCodeUrl": "5-8-19-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "5-8-19-WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
